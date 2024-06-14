@@ -1,3 +1,3 @@
 #ignoring the openaikey
-/home/davidcai/Work/cage_summer_school_demo/openaikey
-/home/davidcai/Work/cage_summer_school_demo/.env
+./openaikey
+./.env
